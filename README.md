@@ -10,3 +10,6 @@ stockmax.java file is about: The cost of a stock on each day is given in an arra
 
 shoppping.java is about: Given an array consisting of cost of toys. Given an integer 'cost' depicting the amount of money available to purchase toys. This program is to find the maximum number of toys one can buy with the amount.
 
+bal_paranthesis.java is about: Checking whethere the paranthesis are balanced using stack (Collection framework)
+
+binary_search.java is about: Binary searching for an element in an array
