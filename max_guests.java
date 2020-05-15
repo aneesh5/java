@@ -22,7 +22,7 @@ class max_guests{
 	}
 
 	public static void main(String args[]){
-		int arrl[] = {13, 28, 29, 14, 40, 17, 3 }; 
+	int arrl[] = {13, 28, 29, 14, 40, 17, 3 }; 
         int exit[] = {107, 95, 111, 105, 70, 127, 74}; 
         int n = arrl.length; 
         System.out.println(find(arrl, exit, n)); 
