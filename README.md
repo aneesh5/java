@@ -4,3 +4,5 @@ max_guests.java file is about: Consider a big party where a log register for gue
 majority.java file is about: finding an element which has highest frequency in an array
 
 regex.java file is about: adding all the special characters and numbers at the end of a given string
+
+stockmax.java file is about: The cost of a stock on each day is given in an array, finding the max profit that one can make by buying and selling in those days. For example, if the given array is {100, 180, 260, 310, 40, 535, 695}, the maximum profit can earned by buying on day 0, selling on day 3. Again buy on day 4 and sell on day 6.
