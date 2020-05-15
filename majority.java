@@ -19,7 +19,7 @@ class majority{
 	}
 
 	public static void main(String args[]){
-		int arr[]={1, 2, 2, 2, 5, 5, 5};
+		int arr[]={1, 2, 2, 3, 5, 5, 5};
 		int len=arr.length;
 		System.out.println(majo(arr,len));
 	}
