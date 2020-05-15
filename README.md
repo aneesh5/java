@@ -6,3 +6,7 @@ majority.java file is about: finding an element which has highest frequency in a
 regex.java file is about: adding all the special characters and numbers at the end of a given string
 
 stockmax.java file is about: The cost of a stock on each day is given in an array, finding the max profit that one can make by buying and selling in those days. For example, if the given array is {100, 180, 260, 310, 40, 535, 695}, the maximum profit can earned by buying on day 0, selling on day 3. Again buy on day 4 and sell on day 6.
+
+
+shoppping.java is about: Given an array consisting of cost of toys. Given an integer 'cost' depicting the amount of money available to purchase toys. This program is to find the maximum number of toys one can buy with the amount.
+
