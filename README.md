@@ -12,4 +12,3 @@ shoppping.java is about: Given an array consisting of cost of toys. Given an int
 
 bal_paranthesis.java is about: Checking whethere the paranthesis are balanced using stack (Collection framework)
 
-binary_search.java is about: Binary searching for an element in an array
